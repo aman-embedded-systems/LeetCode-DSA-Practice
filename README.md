@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
 ## String
 |  |
