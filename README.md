@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
