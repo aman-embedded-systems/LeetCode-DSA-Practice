@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
@@ -22,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
@@ -57,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
