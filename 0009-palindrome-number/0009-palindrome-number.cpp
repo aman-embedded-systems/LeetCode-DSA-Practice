@@ -19,7 +19,6 @@ public:
         palindromenum=(palindromenum*10)+(numcpy%10);
 
         numcpy/=10;
-        printf("%d: \n",palindromenum);
     }
    
     return (palindromenum==x);
