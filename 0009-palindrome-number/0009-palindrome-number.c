@@ -5,6 +5,10 @@ bool isPalindrome(int x) {
     {
         return 1;
     }
+    else if(x<0)
+    {
+        return false;
+    }
     while(numcpy)
     {
         if(palindromenum*10 > INT_MAX || palindromenum < INT_MIN) {
@@ -16,13 +20,5 @@ bool isPalindrome(int x) {
         printf("%d: \n",palindromenum);
     }
    
-    if(palindromenum==x && palindromenum>0 )
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-    
+    return (palindromenum==x);
 }
