@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0009-palindrome-number) |
 | [1903-largest-odd-number-in-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
