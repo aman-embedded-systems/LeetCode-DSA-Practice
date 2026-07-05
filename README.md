@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0009-palindrome-number) |
+| [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -81,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
