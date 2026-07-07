@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
