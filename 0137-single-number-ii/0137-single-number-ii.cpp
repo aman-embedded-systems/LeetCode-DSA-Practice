@@ -6,8 +6,8 @@ public:
         int n=nums.size();
         for(int idx=0;idx<n;idx++)
         {
-            ones=ones^(nums[idx] & ~twos);
-            twos=twos^(nums[idx] & ~ones);
+            ones=(ones^nums[idx]) & ~twos;
+            twos=(twos^nums[idx]) & ~ones;
         }
         return ones; 
     }
