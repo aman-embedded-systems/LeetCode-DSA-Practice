@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
