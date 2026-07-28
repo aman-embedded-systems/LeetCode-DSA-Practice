@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -136,4 +139,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0231-power-of-two) |
+| [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
