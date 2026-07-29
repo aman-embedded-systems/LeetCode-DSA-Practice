@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
