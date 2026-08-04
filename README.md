@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
