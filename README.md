@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
 | ------- |
