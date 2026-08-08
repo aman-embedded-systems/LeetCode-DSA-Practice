@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -90,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
