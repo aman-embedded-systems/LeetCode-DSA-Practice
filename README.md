@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
