@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
