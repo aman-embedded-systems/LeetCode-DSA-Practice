@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0392-is-subsequence) |
 | [1140-stone-game-ii](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0268-missing-number) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/1510-stone-game-iv) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aman-embedded-systems/LeetCode-DSA-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
